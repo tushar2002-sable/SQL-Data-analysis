@@ -1,5 +1,4 @@
 
--- Create and Use Database
 CREATE DATABASE IF NOT EXISTS HealthcareDB;
 USE HealthcareDB;
 
